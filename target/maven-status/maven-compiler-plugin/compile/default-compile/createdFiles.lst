@@ -1,0 +1,10 @@
+com/dwbook/phonebook/App.class
+com/dwbook/phonebook/resources/ClientResource.class
+com/dwbook/phonebook/PhonebookConfiguration.class
+com/dwbook/phonebook/dao/mappers/ContactMapper.class
+com/dwbook/phonebook/PhonebookAuthenticator.class
+com/dwbook/phonebook/dao/UserDAO.class
+com/dwbook/phonebook/health/NewContactHealthCheck.class
+com/dwbook/phonebook/resources/ContactResource.class
+com/dwbook/phonebook/representations/Contact.class
+com/dwbook/phonebook/dao/ContactDAO.class
